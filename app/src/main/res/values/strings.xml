@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="CompanyName">Nerd2Geek</string>
+    <string name="CompanyWebSite">https://www.facebook.com/nerd2geekcomics</string>
+    <string name="ContactInformation">Contact Information</string>
+    <string name="AddressoftheBusiness">İnönü Mahallesi 1404 Sokak No:5/B Yenişehir Mersin/Turkey</string>
+    <string name="Descriptionofbusiness">A Shop Full of Comics, Figures and Accessories. Fine Tea and Coffee.</string>
+    <string name="HoursofOperation">Open Every Day of the Week from 10:00 to 22:00</string>
+</resources>
